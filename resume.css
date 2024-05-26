@@ -1,0 +1,140 @@
+.hold-transition{
+	background-color: #535659;
+}
+
+.resume_div{
+	background-color: #ffff;
+    min-height: 620px;
+    margin: 34px 0px;
+    border-radius: 5px;
+    padding: 50px;
+}
+.applicant_details{
+    margin-top: 30px;	
+}
+.applicant_details>h3{
+	font-weight: 600 !important;
+	font-size: 35px;
+}
+.applicant_details>p{
+	font-weight: 500 !important;
+	line-height: 18px;
+	color: #1a1c2369;
+}
+.applicant_details>p>i{
+	font-weight: 500 !important;
+    line-height: 19px;
+    background-color: #333333;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    color: #fff;
+    border-radius: 3px;
+}
+.image_phases{
+	width: 120px;
+	border: 1px solid #ccc;
+	border-radius: 50%;
+}
+.profile_div{
+	
+	
+}
+.profile_title{
+	font-size: 18px;
+    font-weight: 600 !important;
+    color: #060a1394;
+}
+.profile_desicription{
+	font-size: 18px;
+    font-weight: 600 !important;
+}
+.profile_desicription>p{
+	font-size: 13px;
+    font-weight: 500 !important;
+    color: #271d1d85;
+}
+.details_title{
+	font-size: 18px;
+	font-weight: 600 !important;
+	color: #060a1394;
+}
+.details_desicription{
+	
+}
+.details_desicription>p{
+	font-size: 13px;
+    font-weight: 500 !important;
+    color: #271d1d85;
+}
+.details_desicription>a{
+	font-size: 13px;
+	font-weight: 500 !important;
+	line-height: 27px;
+	word-break: break-word;
+}
+.employee_tab{
+	
+}
+.employee_tab>h4{
+	font-size: 14px;
+	font-weight: 600!important;
+	color: #1d1f27bf;
+	line-height: 22px;
+}
+.employee_tab>small{
+	font-size: 13px;
+	font-weight: 600;
+	color: #0d101570;
+}
+.employee_tab>p{
+	font-size: 13px;
+    font-weight: 500 !important;
+    color: #271d1d85;
+}
+.education_div{
+	
+}
+.education_title{
+    font-size: 18px;
+    font-weight: 600 !important;
+    color: #060a1394;	
+}
+.education_tab{
+	
+}
+.education_tab>h4{
+	font-size: 14px;
+    font-weight: 600!important;
+    color: #1d1f27bf;
+    line-height: 22px;
+}
+.education_tab>small{
+	font-size: 13px;
+    font-weight: 600;
+    color: #0d101570;
+}
+.education_tab>p{
+	font-size: 13px;
+	font-weight: 500 !important;
+	color: #271d1d85;
+}
+.progress_details_desicription>p{
+	font-weight: 500 !important;
+    color: #1d1f27bf;
+    line-height: 22px;
+    font-size: 12px;
+}
+
+.progress{
+	height: 5px;
+	margin-bottom: 8px;
+}
+.progress-bar{
+    background-color: #17dfef;	
+}
+.certilinks{
+	font-size: 13px;
+	font-weight: 500 !important;
+	word-break: break-all;
+}
